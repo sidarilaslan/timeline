@@ -9,5 +9,14 @@
         "sourceType": "module"
     },
     "rules": {
+        "semi": [
+            "error",
+            "always"
+        ],
+        "yoda": [
+            "error",
+            "never"
+        ],
+        "no-multi-spaces": "error"
     }
 }
