@@ -1,11 +1,11 @@
 {
-  "name": "github-timeline",
+  "name": "timeline",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "lint": "eslint .",
-    "minify": "minify js/app.js > js/app.min.js & minify css/style.css > css/style.min.css"
+    "minify": "minify js/timeline.js > js/timeline.min.js & minify css/timeline.css > css/timeline.min.css"
   },
   "author": "",
   "license": "ISC",
