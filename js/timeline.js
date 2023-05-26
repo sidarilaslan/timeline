@@ -1,7 +1,7 @@
 
 const styleLink = document.createElement('link');
 styleLink.setAttribute('rel', 'stylesheet');
-styleLink.setAttribute('href', 'https://cdn.jsdelivr.net/gh/sidarilaslan/timeline/css/timeline.min.css');
+styleLink.setAttribute('href', 'https://cdn.jsdelivr.net/gh/sidarilaslan/timeline@main/css/timeline.min.css');
 document.head.appendChild(styleLink);
 
 async function fetchUserData(user) {
