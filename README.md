@@ -36,7 +36,7 @@ Paste the div in your HTML code and change the data-user value
 
 
 
-Optional width and length usage
+Optional width and height usage
 
 ```bash
    <div id="timeline" data-user="sidarilaslan" data-width="400px" data-height="400px"></div>
